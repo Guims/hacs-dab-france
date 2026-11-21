@@ -21,7 +21,7 @@
           "format": "hls",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:43.285399+00:00",
+          "lastChecked": "2026-11-21T10:05:51.237302+00:00",
           "fails": 0
         },
         {
@@ -32,7 +32,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:43.948199+00:00",
+          "lastChecked": "2026-11-21T10:05:51.817170+00:00",
           "fails": 0
         },
         {
@@ -43,7 +43,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:43.991713+00:00",
+          "lastChecked": "2026-11-21T10:05:51.817194+00:00",
           "fails": 0
         },
         {
@@ -54,7 +54,7 @@
           "format": "icecast",
           "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:43.991732+00:00",
+          "lastChecked": "2026-11-21T10:05:51.817202+00:00",
           "fails": 0
         }
       ]
@@ -78,7 +78,7 @@
           "format": "hls",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:43.991741+00:00",
+          "lastChecked": "2026-11-21T10:05:51.817210+00:00",
           "fails": 0
         },
         {
@@ -89,7 +89,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.109406+00:00",
+          "lastChecked": "2026-11-21T10:05:51.817215+00:00",
           "fails": 0
         },
         {
@@ -100,7 +100,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.109427+00:00",
+          "lastChecked": "2026-11-21T10:05:51.817220+00:00",
           "fails": 0
         },
         {
@@ -111,7 +111,7 @@
           "format": "icecast",
           "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.109434+00:00",
+          "lastChecked": "2026-11-21T10:05:51.817226+00:00",
           "fails": 0
         }
       ]
@@ -136,7 +136,7 @@
           "format": "hls",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.109440+00:00",
+          "lastChecked": "2026-11-21T10:05:51.817233+00:00",
           "fails": 0
         },
         {
@@ -147,7 +147,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.173859+00:00",
+          "lastChecked": "2026-11-21T10:05:52.058780+00:00",
           "fails": 0
         },
         {
@@ -158,7 +158,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.453944+00:00",
+          "lastChecked": "2026-11-21T10:05:52.178262+00:00",
           "fails": 0
         },
         {
@@ -169,7 +169,7 @@
           "format": "icecast",
           "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.453966+00:00",
+          "lastChecked": "2026-11-21T10:05:52.270909+00:00",
           "fails": 0
         }
       ]
@@ -193,7 +193,7 @@
           "format": "hls",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.453974+00:00",
+          "lastChecked": "2026-11-21T10:05:52.270927+00:00",
           "fails": 0
         },
         {
@@ -204,7 +204,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.453978+00:00",
+          "lastChecked": "2026-11-21T10:05:52.350002+00:00",
           "fails": 0
         },
         {
@@ -215,7 +215,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.714081+00:00",
+          "lastChecked": "2026-11-21T10:05:52.464087+00:00",
           "fails": 0
         },
         {
@@ -226,7 +226,7 @@
           "format": "icecast",
           "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.714103+00:00",
+          "lastChecked": "2026-11-21T10:05:52.464105+00:00",
           "fails": 0
         }
       ]
@@ -251,7 +251,7 @@
           "format": "hls",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.714111+00:00",
+          "lastChecked": "2026-11-21T10:05:52.464111+00:00",
           "fails": 0
         },
         {
@@ -262,7 +262,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.716750+00:00",
+          "lastChecked": "2026-11-21T10:05:52.479194+00:00",
           "fails": 0
         },
         {
@@ -273,7 +273,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.781220+00:00",
+          "lastChecked": "2026-11-21T10:05:52.985724+00:00",
           "fails": 0
         },
         {
@@ -284,7 +284,7 @@
           "format": "icecast",
           "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.794096+00:00",
+          "lastChecked": "2026-11-21T10:05:52.985748+00:00",
           "fails": 0
         }
       ]
@@ -309,7 +309,7 @@
           "format": "hls",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:44.794110+00:00",
+          "lastChecked": "2026-11-21T10:05:52.993351+00:00",
           "fails": 0
         },
         {
@@ -320,7 +320,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:45.017058+00:00",
+          "lastChecked": "2026-11-21T10:05:52.993361+00:00",
           "fails": 0
         },
         {
@@ -331,7 +331,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:45.088281+00:00",
+          "lastChecked": "2026-11-21T10:05:53.073863+00:00",
           "fails": 0
         },
         {
@@ -342,7 +342,7 @@
           "format": "icecast",
           "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:45.088300+00:00",
+          "lastChecked": "2026-11-21T10:05:53.081915+00:00",
           "fails": 0
         }
       ]
@@ -366,7 +366,7 @@
           "format": "hls",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:45.088306+00:00",
+          "lastChecked": "2026-11-21T10:05:53.081927+00:00",
           "fails": 0
         }
       ]
@@ -391,7 +391,7 @@
           "format": "icecast",
           "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:45.747528+00:00",
+          "lastChecked": "2026-11-21T10:05:54.038639+00:00",
           "fails": 0
         }
       ]
@@ -416,7 +416,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.603978+00:00",
+          "lastChecked": "2026-11-21T10:05:55.017215+00:00",
           "fails": 0
         }
       ]
@@ -441,7 +441,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.603998+00:00",
+          "lastChecked": "2026-11-21T10:05:55.017238+00:00",
           "fails": 0
         }
       ]
@@ -466,7 +466,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.604005+00:00",
+          "lastChecked": "2026-11-21T10:05:55.017242+00:00",
           "fails": 0
         }
       ]
@@ -491,7 +491,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.604010+00:00",
+          "lastChecked": "2026-11-21T10:05:55.017246+00:00",
           "fails": 0
         }
       ]
@@ -516,7 +516,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.604015+00:00",
+          "lastChecked": "2026-11-21T10:05:55.017250+00:00",
           "fails": 0
         },
         {
@@ -527,7 +527,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.604019+00:00",
+          "lastChecked": "2026-11-21T10:05:55.017254+00:00",
           "fails": 0
         }
       ]
@@ -552,7 +552,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.604023+00:00",
+          "lastChecked": "2026-11-21T10:05:55.017257+00:00",
           "fails": 0
         },
         {
@@ -563,7 +563,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.951979+00:00",
+          "lastChecked": "2026-11-21T10:05:55.519868+00:00",
           "fails": 0
         }
       ]
@@ -587,7 +587,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:46.951999+00:00",
+          "lastChecked": "2026-11-21T10:05:55.519892+00:00",
           "fails": 0
         },
         {
@@ -598,7 +598,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:47.336984+00:00",
+          "lastChecked": "2026-11-21T10:05:55.680799+00:00",
           "fails": 0
         }
       ]
@@ -624,7 +624,7 @@
           "format": "hls",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:47.337010+00:00",
+          "lastChecked": "2026-11-21T10:05:55.680817+00:00",
           "fails": 0
         },
         {
@@ -635,7 +635,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:47.337017+00:00",
+          "lastChecked": "2026-11-21T10:05:55.767683+00:00",
           "fails": 0
         }
       ]
@@ -660,7 +660,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:47.337023+00:00",
+          "lastChecked": "2026-11-21T10:05:55.981528+00:00",
           "fails": 0
         }
       ]
@@ -684,7 +684,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:47.649435+00:00",
+          "lastChecked": "2026-11-21T10:05:56.018989+00:00",
           "fails": 0
         }
       ]
@@ -709,7 +709,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:48.129740+00:00",
+          "lastChecked": "2026-11-21T10:05:56.420248+00:00",
           "fails": 0
         }
       ]
@@ -733,7 +733,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:48.129759+00:00",
+          "lastChecked": "2026-11-21T10:05:56.420270+00:00",
           "fails": 0
         }
       ]
@@ -757,7 +757,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:48.181516+00:00",
+          "lastChecked": "2026-11-21T10:05:56.490284+00:00",
           "fails": 0
         },
         {
@@ -768,7 +768,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:48.181536+00:00",
+          "lastChecked": "2026-11-21T10:05:56.944074+00:00",
           "fails": 0
         }
       ]
@@ -792,7 +792,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:48.181541+00:00",
+          "lastChecked": "2026-11-21T10:05:56.944096+00:00",
           "fails": 0
         }
       ]
@@ -816,7 +816,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:48.421348+00:00",
+          "lastChecked": "2026-11-21T10:05:56.944102+00:00",
           "fails": 0
         }
       ]
@@ -840,7 +840,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:48.781036+00:00",
+          "lastChecked": "2026-11-21T10:05:57.690783+00:00",
           "fails": 0
         },
         {
@@ -851,7 +851,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:48.800362+00:00",
+          "lastChecked": "2026-11-21T10:05:57.690804+00:00",
           "fails": 0
         }
       ]
@@ -875,7 +875,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:49.204968+00:00",
+          "lastChecked": "2026-11-21T10:05:58.832652+00:00",
           "fails": 0
         },
         {
@@ -886,7 +886,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:49.210412+00:00",
+          "lastChecked": "2026-11-21T10:05:58.832672+00:00",
           "fails": 0
         }
       ]
@@ -910,7 +910,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:49.563045+00:00",
+          "lastChecked": "2026-11-21T10:05:58.832677+00:00",
           "fails": 0
         }
       ]
@@ -935,7 +935,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:49.716307+00:00",
+          "lastChecked": "2026-11-21T10:05:58.832681+00:00",
           "fails": 0
         },
         {
@@ -946,7 +946,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:49.716327+00:00",
+          "lastChecked": "2026-11-21T10:05:58.832684+00:00",
           "fails": 0
         }
       ]
@@ -971,7 +971,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:49.716334+00:00",
+          "lastChecked": "2026-11-21T10:05:58.832688+00:00",
           "fails": 0
         }
       ]
@@ -995,7 +995,7 @@
           "format": "hls",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:49.716339+00:00",
+          "lastChecked": "2026-11-21T10:05:58.832692+00:00",
           "fails": 0
         }
       ]
@@ -1020,7 +1020,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:50.038827+00:00",
+          "lastChecked": "2026-11-21T10:05:59.042037+00:00",
           "fails": 0
         },
         {
@@ -1031,7 +1031,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:50.038847+00:00",
+          "lastChecked": "2026-11-21T10:05:59.042060+00:00",
           "fails": 0
         },
         {
@@ -1042,7 +1042,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:51.275863+00:00",
+          "lastChecked": "2026-11-21T10:05:59.559189+00:00",
           "fails": 0
         }
       ]
@@ -1066,7 +1066,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:51.297807+00:00",
+          "lastChecked": "2026-11-21T10:05:59.877444+00:00",
           "fails": 0
         }
       ]
@@ -1091,7 +1091,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:51.512076+00:00",
+          "lastChecked": "2026-11-21T10:06:00.417083+00:00",
           "fails": 0
         }
       ]
@@ -1115,7 +1115,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:51.539370+00:00",
+          "lastChecked": "2026-11-21T10:06:00.417105+00:00",
           "fails": 0
         },
         {
@@ -1126,7 +1126,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:51.539388+00:00",
+          "lastChecked": "2026-11-21T10:06:00.417111+00:00",
           "fails": 0
         }
       ]
@@ -1151,7 +1151,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:51.539394+00:00",
+          "lastChecked": "2026-11-21T10:06:00.417116+00:00",
           "fails": 0
         }
       ]
@@ -1175,7 +1175,7 @@
           "format": "http",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:51.539399+00:00",
+          "lastChecked": "2026-11-21T10:06:00.584294+00:00",
           "fails": 0
         }
       ]
@@ -1200,7 +1200,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:51.539403+00:00",
+          "lastChecked": "2026-11-21T10:06:00.584313+00:00",
           "fails": 0
         }
       ]
@@ -1224,7 +1224,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:52.162342+00:00",
+          "lastChecked": "2026-11-21T10:06:01.390336+00:00",
           "fails": 0
         },
         {
@@ -1235,7 +1235,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:52.800399+00:00",
+          "lastChecked": "2026-11-21T10:06:01.510455+00:00",
           "fails": 0
         }
       ]
@@ -1259,7 +1259,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:52.971442+00:00",
+          "lastChecked": "2026-11-21T10:06:01.692513+00:00",
           "fails": 0
         },
         {
@@ -1270,7 +1270,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:52.971464+00:00",
+          "lastChecked": "2026-11-21T10:06:01.692530+00:00",
           "fails": 0
         }
       ]
@@ -1294,7 +1294,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:53.256514+00:00",
+          "lastChecked": "2026-11-21T10:06:02.611512+00:00",
           "fails": 0
         },
         {
@@ -1305,7 +1305,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:53.256533+00:00",
+          "lastChecked": "2026-11-21T10:06:02.611530+00:00",
           "fails": 0
         }
       ]
@@ -1329,7 +1329,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:53.256539+00:00",
+          "lastChecked": "2026-11-21T10:06:02.611534+00:00",
           "fails": 0
         },
         {
@@ -1340,7 +1340,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:53.256544+00:00",
+          "lastChecked": "2026-11-21T10:06:02.611539+00:00",
           "fails": 0
         }
       ]
@@ -1365,7 +1365,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:53.679515+00:00",
+          "lastChecked": "2026-11-21T10:06:03.016887+00:00",
           "fails": 0
         },
         {
@@ -1376,7 +1376,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.112746+00:00",
+          "lastChecked": "2026-11-21T10:06:03.023754+00:00",
           "fails": 0
         }
       ]
@@ -1401,7 +1401,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.112766+00:00",
+          "lastChecked": "2026-11-21T10:06:03.023764+00:00",
           "fails": 0
         }
       ]
@@ -1425,7 +1425,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.910861+00:00",
+          "lastChecked": "2026-11-21T10:06:03.742505+00:00",
           "fails": 0
         }
       ]
@@ -1450,7 +1450,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.910882+00:00",
+          "lastChecked": "2026-11-21T10:06:03.742531+00:00",
           "fails": 0
         }
       ]
@@ -1475,7 +1475,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.910889+00:00",
+          "lastChecked": "2026-11-21T10:06:03.873409+00:00",
           "fails": 0
         }
       ]
@@ -1500,7 +1500,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.910894+00:00",
+          "lastChecked": "2026-11-21T10:06:03.873438+00:00",
           "fails": 0
         }
       ]
@@ -1525,7 +1525,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.910899+00:00",
+          "lastChecked": "2026-11-21T10:06:03.963096+00:00",
           "fails": 0
         }
       ]
@@ -1550,7 +1550,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.910904+00:00",
+          "lastChecked": "2026-11-21T10:06:03.963114+00:00",
           "fails": 0
         }
       ]
@@ -1575,7 +1575,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:54.910908+00:00",
+          "lastChecked": "2026-11-21T10:06:03.963119+00:00",
           "fails": 0
         }
       ]
@@ -1599,7 +1599,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:55.296498+00:00",
+          "lastChecked": "2026-11-21T10:06:04.809612+00:00",
           "fails": 0
         }
       ]
@@ -1624,7 +1624,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:55.985377+00:00",
+          "lastChecked": "2026-11-21T10:06:05.981299+00:00",
           "fails": 0
         }
       ]
@@ -1662,8 +1662,8 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.152054+00:00",
-          "fails": 1
+          "lastChecked": "2026-11-21T10:06:05.981325+00:00",
+          "fails": 2
         }
       ]
     },
@@ -1687,7 +1687,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.152077+00:00",
+          "lastChecked": "2026-11-21T10:06:05.981332+00:00",
           "fails": 0
         }
       ]
@@ -1711,7 +1711,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.152084+00:00",
+          "lastChecked": "2026-11-21T10:06:05.981338+00:00",
           "fails": 0
         }
       ]
@@ -1736,7 +1736,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.152094+00:00",
+          "lastChecked": "2026-11-21T10:06:05.981343+00:00",
           "fails": 0
         }
       ]
@@ -1760,7 +1760,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.156327+00:00",
+          "lastChecked": "2026-11-21T10:06:05.981348+00:00",
           "fails": 0
         }
       ]
@@ -1784,7 +1784,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.747143+00:00",
+          "lastChecked": "2026-11-21T10:06:05.981353+00:00",
           "fails": 0
         },
         {
@@ -1795,7 +1795,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.747172+00:00",
+          "lastChecked": "2026-11-21T10:06:05.981358+00:00",
           "fails": 0
         },
         {
@@ -1806,7 +1806,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.747182+00:00",
+          "lastChecked": "2026-11-21T10:06:05.981363+00:00",
           "fails": 0
         }
       ]
@@ -1830,7 +1830,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:56.747191+00:00",
+          "lastChecked": "2026-11-21T10:06:06.016045+00:00",
           "fails": 0
         }
       ]
@@ -1854,7 +1854,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:57.086093+00:00",
+          "lastChecked": "2026-11-21T10:06:06.458073+00:00",
           "fails": 0
         }
       ]
@@ -1878,7 +1878,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:57.486704+00:00",
+          "lastChecked": "2026-11-21T10:06:07.392594+00:00",
           "fails": 0
         }
       ]
@@ -1902,7 +1902,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:57.486724+00:00",
+          "lastChecked": "2026-11-21T10:06:07.392611+00:00",
           "fails": 0
         }
       ]
@@ -1938,7 +1938,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:57.744276+00:00",
+          "lastChecked": "2026-11-21T10:06:07.449169+00:00",
           "fails": 0
         }
       ]
@@ -1963,7 +1963,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:57.744294+00:00",
+          "lastChecked": "2026-11-21T10:06:07.449183+00:00",
           "fails": 0
         }
       ]
@@ -1987,7 +1987,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:57.744299+00:00",
+          "lastChecked": "2026-11-21T10:06:07.449189+00:00",
           "fails": 0
         }
       ]
@@ -2037,7 +2037,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:57.744303+00:00",
+          "lastChecked": "2026-11-21T10:06:07.449192+00:00",
           "fails": 0
         }
       ]
@@ -2061,7 +2061,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:58.396008+00:00",
+          "lastChecked": "2026-11-21T10:06:07.754606+00:00",
           "fails": 0
         }
       ]
@@ -2086,7 +2086,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:58.396034+00:00",
+          "lastChecked": "2026-11-21T10:06:07.754622+00:00",
           "fails": 0
         }
       ]
@@ -2111,7 +2111,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:58.396043+00:00",
+          "lastChecked": "2026-11-21T10:06:07.754627+00:00",
           "fails": 0
         }
       ]
@@ -2173,7 +2173,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:58.567277+00:00",
+          "lastChecked": "2026-11-21T10:06:08.226564+00:00",
           "fails": 0
         }
       ]
@@ -2210,7 +2210,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.037882+00:00",
+          "lastChecked": "2026-11-21T10:06:08.824230+00:00",
           "fails": 0
         }
       ]
@@ -2234,7 +2234,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.037916+00:00",
+          "lastChecked": "2026-11-21T10:06:08.824249+00:00",
           "fails": 0
         }
       ]
@@ -2284,7 +2284,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.037926+00:00",
+          "lastChecked": "2026-11-21T10:06:08.824254+00:00",
           "fails": 0
         }
       ]
@@ -2308,7 +2308,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.037935+00:00",
+          "lastChecked": "2026-11-21T10:06:08.824258+00:00",
           "fails": 0
         },
         {
@@ -2319,7 +2319,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.037941+00:00",
+          "lastChecked": "2026-11-21T10:06:08.828265+00:00",
           "fails": 0
         }
       ]
@@ -2344,7 +2344,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.037949+00:00",
+          "lastChecked": "2026-11-21T10:06:08.828275+00:00",
           "fails": 0
         }
       ]
@@ -2369,7 +2369,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.037956+00:00",
+          "lastChecked": "2026-11-21T10:06:08.828279+00:00",
           "fails": 0
         }
       ]
@@ -2393,7 +2393,7 @@
           "format": "http",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.037964+00:00",
+          "lastChecked": "2026-11-21T10:06:08.828284+00:00",
           "fails": 0
         }
       ]
@@ -2418,7 +2418,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.968715+00:00",
+          "lastChecked": "2026-11-21T10:06:09.919980+00:00",
           "fails": 0
         }
       ]
@@ -2455,7 +2455,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.968738+00:00",
+          "lastChecked": "2026-11-21T10:06:09.920000+00:00",
           "fails": 0
         },
         {
@@ -2466,7 +2466,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:58:59.968745+00:00",
+          "lastChecked": "2026-11-21T10:06:09.920005+00:00",
           "fails": 0
         }
       ]
@@ -2490,7 +2490,7 @@
           "format": "icecast",
           "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:00.127013+00:00",
+          "lastChecked": "2026-11-21T10:06:09.920008+00:00",
           "fails": 0
         },
         {
@@ -2501,7 +2501,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:00.127039+00:00",
+          "lastChecked": "2026-11-21T10:06:09.929617+00:00",
           "fails": 0
         }
       ]
@@ -2525,7 +2525,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602067+00:00",
+          "lastChecked": "2026-11-21T10:06:12.624033+00:00",
           "fails": 0
         }
       ]
@@ -2549,7 +2549,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602090+00:00",
+          "lastChecked": "2026-11-21T10:06:12.624053+00:00",
           "fails": 0
         },
         {
@@ -2560,7 +2560,7 @@
           "format": "http",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602098+00:00",
+          "lastChecked": "2026-11-21T10:06:14.404403+00:00",
           "fails": 0
         }
       ]
@@ -2585,7 +2585,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602104+00:00",
+          "lastChecked": "2026-11-21T10:06:14.404447+00:00",
           "fails": 0
         }
       ]
@@ -2621,7 +2621,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602109+00:00",
+          "lastChecked": "2026-11-21T10:06:14.404454+00:00",
           "fails": 0
         }
       ]
@@ -2645,7 +2645,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602114+00:00",
+          "lastChecked": "2026-11-21T10:06:14.404459+00:00",
           "fails": 0
         }
       ]
@@ -2670,7 +2670,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602119+00:00",
+          "lastChecked": "2026-11-21T10:06:14.404463+00:00",
           "fails": 0
         }
       ]
@@ -2694,7 +2694,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602124+00:00",
+          "lastChecked": "2026-11-21T10:06:14.404468+00:00",
           "fails": 0
         }
       ]
@@ -2730,7 +2730,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602129+00:00",
+          "lastChecked": "2026-11-21T10:06:14.404472+00:00",
           "fails": 0
         },
         {
@@ -2741,7 +2741,7 @@
           "format": "icecast",
           "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-21T09:59:08.602134+00:00",
+          "lastChecked": "2026-11-21T10:06:14.404475+00:00",
           "fails": 0
         }
       ]
@@ -2754,7 +2754,24 @@
       "type": "locale",
       "genres": [],
       "logo": null,
-      "streams": []
+      "streams": [
+        {
+          "url": "https://stream.rtsfm.com/rts-national.mp3",
+          "codec": "MP3",
+          "format": "icecast",
+          "ok": false,
+          "fails": 1,
+          "lastChecked": "2026-11-21T10:06:14.404479+00:00"
+        },
+        {
+          "url": "https://str0.creacast.com/rts-national.mp3",
+          "codec": "MP3",
+          "format": "icecast",
+          "ok": true,
+          "fails": 0,
+          "lastChecked": "2026-11-21T10:06:14.404483+00:00"
+        }
+      ]
     },
     {
       "id": "radio-one",
@@ -2782,7 +2799,7 @@
           "format": "icecast",
           "ok": true,
           "fails": 0,
-          "lastChecked": "2026-11-21T09:59:08.602139+00:00"
+          "lastChecked": "2026-11-21T10:06:14.404487+00:00"
         }
       ]
     },
@@ -2804,7 +2821,16 @@
       "type": "locale",
       "genres": [],
       "logo": null,
-      "streams": []
+      "streams": [
+        {
+          "url": "https://icecast.radiofrance.fr/fbherault-midfi.mp3",
+          "codec": "MP3",
+          "format": "icecast",
+          "ok": true,
+          "fails": 0,
+          "lastChecked": "2026-11-21T10:06:14.404491+00:00"
+        }
+      ]
     },
     {
       "id": "rcf-occitanie",
@@ -2823,8 +2849,18 @@
       "region": "Occitanie",
       "type": "locale",
       "genres": [],
-      "logo": null,
-      "streams": []
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/6/6d/Logo_Divergence-FM.jpg",
+      "streams": [
+        {
+          "url": "https://stream.divergence-fm.org:8001/divergence.mp3",
+          "codec": "MP3",
+          "bitrate": 128,
+          "format": "icecast",
+          "ok": true,
+          "fails": 0,
+          "lastChecked": "2026-11-21T10:06:14.404495+00:00"
+        }
+      ]
     },
     {
       "id": "fm-plus",
@@ -2851,8 +2887,8 @@
           "bitrate": 128,
           "format": "icecast",
           "ok": false,
-          "fails": 1,
-          "lastChecked": "2026-11-21T09:59:08.602147+00:00"
+          "fails": 2,
+          "lastChecked": "2026-11-21T10:06:14.404499+00:00"
         }
       ]
     },
@@ -2873,8 +2909,17 @@
       "region": "Occitanie",
       "type": "locale",
       "genres": [],
-      "logo": null,
-      "streams": []
+      "logo": "https://www.radioclapas.fr/wp-content/uploads/2016/03/logo-clapas-demi.png",
+      "streams": [
+        {
+          "url": "https://stations.radioclapas.fr/radio/8130/radio.mp3",
+          "codec": "MP3",
+          "format": "icecast",
+          "ok": true,
+          "fails": 0,
+          "lastChecked": "2026-11-21T10:06:14.404503+00:00"
+        }
+      ]
     },
     {
       "id": "flash",
