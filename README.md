@@ -39,7 +39,7 @@ Le workflow [Vérification des radios](https://github.com/Guims/hacs-dab-france/
 ### 0.5.0
 - Module serveur facultatif ICY via WebSocket Home Assistant, sans URL fournie par le navigateur.
 - Repli automatique sur ce module après échec des méthodes navigateur.
-- Installation manuelle du module requise ; non testé sur HAOS.
+- Module indépendant disponible depuis la v0.5.1 ; non testé sur HAOS.
 
 ### 0.4.2
 - Priorité à la dernière méthode de métadonnées ayant réussi pour le flux courant.
@@ -74,14 +74,8 @@ Les métadonnées navigateur dépendent de CORS et des informations réellement 
 
 ## Module serveur facultatif (expérimental)
 
-La carte HACS reste autonome. Pour activer le module, copier le dossier `metadata-integration/custom_components/dab_france_metadata` du dépôt vers `/config/custom_components/dab_france_metadata` sur Home Assistant. Ajouter à configuration.yaml :
+Le module est désormais disponible dans un dépôt indépendant : [DAB+ France Metadata](https://github.com/Guims/hacs-dab-france-metadata), version 0.5.1.
 
-```yaml
-dab_france_metadata:
-```
+Dans HACS, ajouter ce dépôt personnalisé dans la catégorie Intégration, télécharger main, redémarrer Home Assistant et ajouter DAB+ France Metadata dans Paramètres > Appareils et services. Aucun YAML nécessaire. Ne pas installer simultanément l'ancienne copie manuelle. La carte v0.5.0 détecte le module automatiquement lors de la recherche de titres. Recharger le tableau de bord après activation.
 
-Vérifier la configuration et redémarrer Home Assistant. Le module ne constitue pas encore un dépôt HACS Integration installable séparément : le dépôt principal reste une carte Dashboard. Le serveur recherche des titres ICY pour les flux HTTPS figurant dans son catalogue, sans suivre les redirections et sans accepter d'adresse privée. Les requêtes sont limitées et les résultats mis en cache 25 secondes. Les API propriétaires et les flux dépourvus de métadonnées restent non pris en charge. En cas d'échec, la carte continue à fonctionner seule.
-
-### Module serveur 0.5.1 — préparation HACS
-
-Le module dispose désormais d'un assistant de configuration graphique. Après copie du dossier et redémarrage, il peut être ajouté depuis Paramètres > Appareils et services > Ajouter une intégration > DAB+ France Metadata. Ne pas ajouter simultanément la configuration YAML. La carte reste en 0.5.0. Le dépôt HACS Integration distinct reste à créer ; cette préparation ne constitue pas une installation HACS opérationnelle. Non testé sur HAOS.
+L'installation HACS et la lecture réelle restent à tester.
