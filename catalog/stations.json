@@ -17,33 +17,45 @@
           "url": "https://stream.radiofrance.fr/franceinter/franceinter.m3u8?id=radiofrance",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:43.285399+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceinter-hifi.aac",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:43.948199+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceinter-midfi.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:43.991713+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceinter-lofi.aac",
           "codec": "AAC",
           "bitrate": 32,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:43.991732+00:00",
+          "fails": 0
         }
       ]
     },
@@ -62,33 +74,45 @@
           "url": "https://stream.radiofrance.fr/franceinfo/franceinfo.m3u8?id=radiofrance",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:43.991741+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceinfo-hifi.aac",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.109406+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.109427+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceinfo-lofi.aac",
           "codec": "AAC",
           "bitrate": 32,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.109434+00:00",
+          "fails": 0
         }
       ]
     },
@@ -108,33 +132,45 @@
           "url": "https://stream.radiofrance.fr/franceculture/franceculture.m3u8?id=radiofrance",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.109440+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceculture-hifi.aac",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.173859+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceculture-midfi.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.453944+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/franceculture-lofi.aac",
           "codec": "AAC",
           "bitrate": 32,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.453966+00:00",
+          "fails": 0
         }
       ]
     },
@@ -153,33 +189,45 @@
           "url": "https://stream.radiofrance.fr/francemusique/francemusique.m3u8?id=radiofrance",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.453974+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/francemusique-hifi.aac",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.453978+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.714081+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/francemusique-lofi.aac",
           "codec": "AAC",
           "bitrate": 32,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.714103+00:00",
+          "fails": 0
         }
       ]
     },
@@ -199,33 +247,45 @@
           "url": "https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:08Z"
+          "lastChecked": "2026-11-21T09:58:44.714111+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/fip-hifi.aac",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:44.716750+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/fip-midfi.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:44.781220+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/fip-lofi.aac",
           "codec": "AAC",
           "bitrate": 32,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:44.794096+00:00",
+          "fails": 0
         }
       ]
     },
@@ -245,33 +305,45 @@
           "url": "https://stream.radiofrance.fr/fb1071/fb1071.m3u8?id=radiofrance",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:44.794110+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/fb1071-hifi.aac",
           "codec": "AAC",
           "bitrate": 192,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:45.017058+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/fb1071-midfi.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:45.088281+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.radiofrance.fr/fb1071-lofi.aac",
           "codec": "AAC",
           "bitrate": 32,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:45.088300+00:00",
+          "fails": 0
         }
       ]
     },
@@ -290,9 +362,12 @@
           "url": "https://stream.radiofrance.fr/monpetitfranceinter/monpetitfranceinter_hifi.m3u8",
           "codec": null,
           "bitrate": null,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:45.088306+00:00",
+          "fails": 0
         }
       ]
     },
@@ -312,9 +387,12 @@
           "url": "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3",
           "codec": "MP3",
           "bitrate": 64,
+          "sampleRate": 22050,
           "format": "icecast",
+          "quality": "eco",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:10Z"
+          "lastChecked": "2026-11-21T09:58:45.747528+00:00",
+          "fails": 0
         }
       ]
     },
@@ -334,9 +412,12 @@
           "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:10Z"
+          "lastChecked": "2026-11-21T09:58:46.603978+00:00",
+          "fails": 0
         }
       ]
     },
@@ -356,9 +437,12 @@
           "url": "https://icecast.rtl.fr/rtl-1-44-128",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:09Z"
+          "lastChecked": "2026-11-21T09:58:46.603998+00:00",
+          "fails": 0
         }
       ]
     },
@@ -378,9 +462,12 @@
           "url": "https://icecast.rtl2.fr/rtl2-1-44-128",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:10Z"
+          "lastChecked": "2026-11-21T09:58:46.604005+00:00",
+          "fails": 0
         }
       ]
     },
@@ -400,9 +487,12 @@
           "url": "https://icecast.funradio.fr/fun-1-44-128",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:10Z"
+          "lastChecked": "2026-11-21T09:58:46.604010+00:00",
+          "fails": 0
         }
       ]
     },
@@ -422,17 +512,23 @@
           "url": "https://europe1.lmn.fm/europe1.aac",
           "codec": "AAC",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:10Z"
+          "lastChecked": "2026-11-21T09:58:46.604015+00:00",
+          "fails": 0
         },
         {
           "url": "https://europe1.lmn.fm/europe1.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:10Z"
+          "lastChecked": "2026-11-21T09:58:46.604019+00:00",
+          "fails": 0
         }
       ]
     },
@@ -452,17 +548,23 @@
           "url": "https://europe2.lmn.fm/europe2.aac",
           "codec": "AAC",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:11Z"
+          "lastChecked": "2026-11-21T09:58:46.604023+00:00",
+          "fails": 0
         },
         {
           "url": "https://europe2.lmn.fm/europe2.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:11Z"
+          "lastChecked": "2026-11-21T09:58:46.951979+00:00",
+          "fails": 0
         }
       ]
     },
@@ -481,17 +583,23 @@
           "url": "https://stream.rfm.fr/rfm-wr13.aac",
           "codec": "HE-AAC",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:10Z"
+          "lastChecked": "2026-11-21T09:58:46.951999+00:00",
+          "fails": 0
         },
         {
           "url": "https://stream.rfm.fr/rfm.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:11Z"
+          "lastChecked": "2026-11-21T09:58:47.336984+00:00",
+          "fails": 0
         }
       ]
     },
@@ -512,17 +620,23 @@
           "url": "https://hls-rmc.nextradiotv.com/no_ssai/128k/media.m3u8",
           "codec": null,
           "bitrate": 128,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:10Z"
+          "lastChecked": "2026-11-21T09:58:47.337010+00:00",
+          "fails": 0
         },
         {
           "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:11Z"
+          "lastChecked": "2026-11-21T09:58:47.337017+00:00",
+          "fails": 0
         }
       ]
     },
@@ -542,9 +656,12 @@
           "url": "https://audio.bfmtv.com/bfmbusiness_128.mp3",
           "codec": "MP3",
           "bitrate": 256,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:11Z"
+          "lastChecked": "2026-11-21T09:58:47.337023+00:00",
+          "fails": 0
         }
       ]
     },
@@ -563,9 +680,12 @@
           "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
           "codec": "MP3",
           "bitrate": 256,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:11Z"
+          "lastChecked": "2026-11-21T09:58:47.649435+00:00",
+          "fails": 0
         }
       ]
     },
@@ -585,9 +705,12 @@
           "url": "https://streaming.nrjaudio.fm/ou5k6tirv93h",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:12Z"
+          "lastChecked": "2026-11-21T09:58:48.129740+00:00",
+          "fails": 0
         }
       ]
     },
@@ -606,9 +729,12 @@
           "url": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:11Z"
+          "lastChecked": "2026-11-21T09:58:48.129759+00:00",
+          "fails": 0
         }
       ]
     },
@@ -627,17 +753,23 @@
           "url": "https://streaming.nrjaudio.fm/ouwgwqsk6j4d",
           "codec": "HE-AAC",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:12Z"
+          "lastChecked": "2026-11-21T09:58:48.181516+00:00",
+          "fails": 0
         },
         {
           "url": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=fluxradios",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:12Z"
+          "lastChecked": "2026-11-21T09:58:48.181536+00:00",
+          "fails": 0
         }
       ]
     },
@@ -656,9 +788,12 @@
           "url": "https://streaming.nrjaudio.fm/ougfkxrb92oc",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:12Z"
+          "lastChecked": "2026-11-21T09:58:48.181541+00:00",
+          "fails": 0
         }
       ]
     },
@@ -677,9 +812,12 @@
           "url": "https://streaming.nrjaudio.fm/ousguym4z85f",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:12Z"
+          "lastChecked": "2026-11-21T09:58:48.421348+00:00",
+          "fails": 0
         }
       ]
     },
@@ -698,17 +836,23 @@
           "url": "https://icecast.skyrock.net/s/natio_aac_128k",
           "codec": "AAC",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:48.781036+00:00",
+          "fails": 0
         },
         {
           "url": "https://icecast.skyrock.net/s/natio_mp3_128k",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:48.800362+00:00",
+          "fails": 0
         }
       ]
     },
@@ -727,17 +871,23 @@
           "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.aac",
           "codec": "HE-AAC",
           "bitrate": 64,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:12Z"
+          "lastChecked": "2026-11-21T09:58:49.204968+00:00",
+          "fails": 0
         },
         {
           "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:12Z"
+          "lastChecked": "2026-11-21T09:58:49.210412+00:00",
+          "fails": 0
         }
       ]
     },
@@ -756,9 +906,12 @@
           "url": "https://mfm.ice.infomaniak.ch/mfm-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:49.563045+00:00",
+          "fails": 0
         }
       ]
     },
@@ -778,17 +931,23 @@
           "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.aac",
           "codec": "HE-AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:49.716307+00:00",
+          "fails": 0
         },
         {
           "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:49.716327+00:00",
+          "fails": 0
         }
       ]
     },
@@ -808,9 +967,12 @@
           "url": "https://n22a-eu.rcs.revma.com/vuumdncf368uv?",
           "codec": "AAC",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:49.716334+00:00",
+          "fails": 0
         }
       ]
     },
@@ -829,9 +991,12 @@
           "url": "https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/master.m3u8",
           "codec": "AAC",
           "bitrate": 320,
+          "sampleRate": null,
           "format": "hls",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:12Z"
+          "lastChecked": "2026-11-21T09:58:49.716339+00:00",
+          "fails": 0
         }
       ]
     },
@@ -851,25 +1016,34 @@
           "url": "https://ice.creacast.com/sudradio_aac",
           "codec": "AAC",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:50.038827+00:00",
+          "fails": 0
         },
         {
           "url": "https://ice.creacast.com/sudradio",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:50.038847+00:00",
+          "fails": 0
         },
         {
           "url": "https://live.sudradio.fr/sudradio-mp3-128",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:51.275863+00:00",
+          "fails": 0
         }
       ]
     },
@@ -888,9 +1062,12 @@
           "url": "https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:51.297807+00:00",
+          "fails": 0
         }
       ]
     },
@@ -910,9 +1087,12 @@
           "url": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:51.512076+00:00",
+          "fails": 0
         }
       ]
     },
@@ -931,17 +1111,23 @@
           "url": "https://radiofg.impek.com/fg.mp3",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:51.539370+00:00",
+          "fails": 0
         },
         {
           "url": "https://radiofg.impek.com/fg",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:51.539388+00:00",
+          "fails": 0
         }
       ]
     },
@@ -961,9 +1147,12 @@
           "url": "https://radiofg.impek.com/fgc.mp3",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:51.539394+00:00",
+          "fails": 0
         }
       ]
     },
@@ -982,9 +1171,12 @@
           "url": "https://radiofg.impek.com/fgd",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "http",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:51.539399+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1004,9 +1196,12 @@
           "url": "https://stream.rcs.revma.com/nwhyn2c6p98uv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:13Z"
+          "lastChecked": "2026-11-21T09:58:51.539403+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1025,17 +1220,23 @@
           "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.aac",
           "codec": "HE-AAC",
           "bitrate": 96,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:52.162342+00:00",
+          "fails": 0
         },
         {
           "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:14Z"
+          "lastChecked": "2026-11-21T09:58:52.800399+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1054,17 +1255,23 @@
           "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
           "codec": "MP3",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:15Z"
+          "lastChecked": "2026-11-21T09:58:52.971442+00:00",
+          "fails": 0
         },
         {
           "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-high.aac",
           "codec": "HE-AAC",
           "bitrate": 64,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:15Z"
+          "lastChecked": "2026-11-21T09:58:52.971464+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1083,17 +1290,23 @@
           "url": "https://stream.chantefrance.com/Chante_France",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:15Z"
+          "lastChecked": "2026-11-21T09:58:53.256514+00:00",
+          "fails": 0
         },
         {
           "url": "https://chantefrance.ice.infomaniak.ch/chantefrance-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:15Z"
+          "lastChecked": "2026-11-21T09:58:53.256533+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1112,17 +1325,23 @@
           "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.aac",
           "codec": "HE-AAC",
           "bitrate": 64,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:15Z"
+          "lastChecked": "2026-11-21T09:58:53.256539+00:00",
+          "fails": 0
         },
         {
           "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:15Z"
+          "lastChecked": "2026-11-21T09:58:53.256544+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1142,17 +1361,23 @@
           "url": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.aac",
           "codec": "HE-AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:53.679515+00:00",
+          "fails": 0
         },
         {
           "url": "https://start-voltage.ice.infomaniak.ch/start-voltage-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:54.112746+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1172,9 +1397,12 @@
           "url": "https://windu.radionotredame.net/RadioNotreDame-Fm.mp3",
           "codec": "MP3",
           "bitrate": 192,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:15Z"
+          "lastChecked": "2026-11-21T09:58:54.112766+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1193,9 +1421,12 @@
           "url": "https://stream.evasionfm.com/stream.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:54.910861+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1215,9 +1446,12 @@
           "url": "https://stream.rcs.revma.com/5a05fstup42vv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:15Z"
+          "lastChecked": "2026-11-21T09:58:54.910882+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1237,9 +1471,12 @@
           "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:54.910889+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1259,9 +1496,12 @@
           "url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:54.910894+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1281,9 +1521,12 @@
           "url": "https://african1paris.ice.infomaniak.ch/african1paris-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:54.910899+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1303,9 +1546,12 @@
           "url": "https://listen.radioking.com/radio/8916/stream/19088",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:54.910904+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1325,9 +1571,12 @@
           "url": "https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:54.910908+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1346,9 +1595,12 @@
           "url": "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:55.296498+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1368,9 +1620,12 @@
           "url": "https://direct.croonerradio.fr/croonerradio-midfi.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:55.985377+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1403,9 +1658,12 @@
           "url": "https://vivrefm.ice.infomaniak.ch/vivrefm-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:24Z"
+          "lastChecked": "2026-11-21T09:58:56.152054+00:00",
+          "fails": 1
         }
       ]
     },
@@ -1425,9 +1683,12 @@
           "url": "https://virginradio.ice.infomaniak.ch/virgin-radio.aac",
           "codec": "HE-AAC",
           "bitrate": 64,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:56.152077+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1446,9 +1707,12 @@
           "url": "https://listen.radioking.com/radio/6640/stream/347",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:56.152084+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1468,9 +1732,12 @@
           "url": "https://euradio.fr/stream/",
           "codec": "MP3",
           "bitrate": 256,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:16Z"
+          "lastChecked": "2026-11-21T09:58:56.152094+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1489,9 +1756,12 @@
           "url": "https://lovely.ice.infomaniak.ch/lovely-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:56.156327+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1510,25 +1780,34 @@
           "url": "https://mbs.ice.infomaniak.ch/mbs-96.aac",
           "codec": "HE-AAC",
           "bitrate": 96,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:56.747143+00:00",
+          "fails": 0
         },
         {
           "url": "https://mbs.ice.infomaniak.ch/mbs-64.aac",
           "codec": "HE-AAC",
           "bitrate": 64,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:56.747172+00:00",
+          "fails": 0
         },
         {
           "url": "https://mbs.ice.infomaniak.ch/mbs-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:56.747182+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1547,9 +1826,12 @@
           "url": "https://stream.rcs.revma.com/gnn6u7czd8uvv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:56.747191+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1568,9 +1850,12 @@
           "url": "https://str0.creacast.com/pharefm",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:57.086093+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1589,9 +1874,12 @@
           "url": "https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:18Z"
+          "lastChecked": "2026-11-21T09:58:57.486704+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1610,9 +1898,12 @@
           "url": "https://ice.creacast.com/radio-courtoisie",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:57.486724+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1643,9 +1934,12 @@
           "url": "https://urbanhitblack.ice.infomaniak.ch/urbanhitblack128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:18Z"
+          "lastChecked": "2026-11-21T09:58:57.744276+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1665,9 +1959,12 @@
           "url": "https://stream3.vestaradio.com/aligrefmradio",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:18Z"
+          "lastChecked": "2026-11-21T09:58:57.744294+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1686,9 +1983,12 @@
           "url": "https://stric6.streamakaci.com/radioayp.mp3",
           "codec": "MP3",
           "bitrate": 192,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:17Z"
+          "lastChecked": "2026-11-21T09:58:57.744299+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1733,9 +2033,12 @@
           "url": "https://freqpro.streamakaci.com/frequenceprotestante.mp3",
           "codec": "MP3",
           "bitrate": 160,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:18Z"
+          "lastChecked": "2026-11-21T09:58:57.744303+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1754,9 +2057,12 @@
           "url": "https://play.radioking.io/londeporteuse-paris",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:58.396008+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1776,9 +2082,12 @@
           "url": "https://ice.creacast.com/radio-neo-paris",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:18Z"
+          "lastChecked": "2026-11-21T09:58:58.396034+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1798,9 +2107,12 @@
           "url": "https://www.radiocampusparis.org/stream/",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:18Z"
+          "lastChecked": "2026-11-21T09:58:58.396043+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1857,9 +2169,12 @@
           "url": "https://wrp.stream.dicast.fr/wrp-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:58.567277+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1891,9 +2206,12 @@
           "url": "https://listen.radioking.com/radio/422/stream/62785",
           "codec": "MP3",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:59.037882+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1912,9 +2230,12 @@
           "url": "https://listen.radioking.com/radio/273406/stream/318889",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:59.037916+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1959,9 +2280,12 @@
           "url": "https://stream.rcs.revma.com/amrbkhqtkm0uv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:18Z"
+          "lastChecked": "2026-11-21T09:58:59.037926+00:00",
+          "fails": 0
         }
       ]
     },
@@ -1980,17 +2304,23 @@
           "url": "https://icy-zurich.mpbnl.nl/radiofuego",
           "codec": "HE-AAC",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:59.037935+00:00",
+          "fails": 0
         },
         {
           "url": "https://n12a-eu.rcs.revma.com/dapwbz2befcwv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:59.037941+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2010,9 +2340,12 @@
           "url": "https://stream.rcs.revma.com/138w9xn95tuvv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:59.037949+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2032,9 +2365,12 @@
           "url": "https://str0.creacast.com/radio-rcj",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:59.037956+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2053,9 +2389,12 @@
           "url": "https://webradio.tvradio-pitchoun.fr:8443/radiopitchoun.aac",
           "codec": "AAC",
           "bitrate": null,
+          "sampleRate": null,
           "format": "http",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:19Z"
+          "lastChecked": "2026-11-21T09:58:59.037964+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2075,9 +2414,12 @@
           "url": "https://sensations.ice.infomaniak.ch/sensations.aac",
           "codec": "AAC",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:21Z"
+          "lastChecked": "2026-11-21T09:58:59.968715+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2109,17 +2451,23 @@
           "url": "https://ouifm6.ice.infomaniak.ch/collector-rnt.mp3?ua=InfomaniakPlayer",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:20Z"
+          "lastChecked": "2026-11-21T09:58:59.968738+00:00",
+          "fails": 0
         },
         {
           "url": "https://ouifm6.ice.infomaniak.ch/ouifm6-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:20Z"
+          "lastChecked": "2026-11-21T09:58:59.968745+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2138,17 +2486,23 @@
           "url": "https://radioespace.ice.infomaniak.ch/radioespace-high.mp3",
           "codec": "MP3",
           "bitrate": 192,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "max",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:20Z"
+          "lastChecked": "2026-11-21T09:59:00.127013+00:00",
+          "fails": 0
         },
         {
           "url": "https://radioespace.ice.infomaniak.ch/radioespace-high.aac",
           "codec": "HE-AAC",
           "bitrate": 64,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:20Z"
+          "lastChecked": "2026-11-21T09:59:00.127039+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2167,9 +2521,12 @@
           "url": "https://stream.rcs.revma.com/hbm385tup42vv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:29Z"
+          "lastChecked": "2026-11-21T09:59:08.602067+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2188,17 +2545,23 @@
           "url": "https://stream.rcs.revma.com/186wgykpq42vv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:20Z"
+          "lastChecked": "2026-11-21T09:59:08.602090+00:00",
+          "fails": 0
         },
         {
           "url": "https://stream.rcs.revma.com/b774g1gqh6bwv",
           "codec": "MP3",
           "bitrate": null,
+          "sampleRate": null,
           "format": "http",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:25Z"
+          "lastChecked": "2026-11-21T09:59:08.602098+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2218,9 +2581,12 @@
           "url": "https://inrocksradio.ice.infomaniak.ch/inrocksradio-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:21Z"
+          "lastChecked": "2026-11-21T09:59:08.602104+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2251,9 +2617,12 @@
           "url": "https://ouifm4.ice.infomaniak.ch/radiolife.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:21Z"
+          "lastChecked": "2026-11-21T09:59:08.602109+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2272,9 +2641,12 @@
           "url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:20Z"
+          "lastChecked": "2026-11-21T09:59:08.602114+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2294,9 +2666,12 @@
           "url": "https://sanef.ice.infomaniak.ch/sanef1077-idf.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 44100,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:21Z"
+          "lastChecked": "2026-11-21T09:59:08.602119+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2315,9 +2690,12 @@
           "url": "https://sequenceparis.ice.infomaniak.ch/sequenceparis-128.mp3",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": 48000,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:21Z"
+          "lastChecked": "2026-11-21T09:59:08.602124+00:00",
+          "fails": 0
         }
       ]
     },
@@ -2348,19 +2726,165 @@
           "url": "https://www.radioking.com/play/tsugi-radio",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:22Z"
+          "lastChecked": "2026-11-21T09:59:08.602129+00:00",
+          "fails": 0
         },
         {
           "url": "https://listen.radioking.com/radio/1906/stream/6029",
           "codec": "MP3",
           "bitrate": 128,
+          "sampleRate": null,
           "format": "icecast",
+          "quality": "std",
           "ok": true,
-          "lastChecked": "2026-11-20T09:58:22Z"
+          "lastChecked": "2026-11-21T09:59:08.602134+00:00",
+          "fails": 0
         }
       ]
+    },
+    {
+      "id": "rts",
+      "name": "RTS",
+      "dab": "9C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "radio-one",
+      "name": "Radio One",
+      "dab": "9C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "lenga-doc",
+      "name": "Radio Lenga d'Oc",
+      "dab": "11C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": "https://radiolengadoc.com/wp-content/themes/radiolengadoc/template-parts/header/logo-rlo/LOGO-RLO_CARNAVAL.png",
+      "streams": [
+        {
+          "url": "https://stream-ssl.radios-arra.fr:8443/rlo",
+          "codec": "MP3",
+          "bitrate": 128,
+          "format": "icecast",
+          "ok": true,
+          "fails": 0,
+          "lastChecked": "2026-11-21T09:59:08.602139+00:00"
+        }
+      ]
+    },
+    {
+      "id": "100pourcent",
+      "name": "100%",
+      "dab": "11C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "ici-herault",
+      "name": "ici Hérault",
+      "dab": "11C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "rcf-occitanie",
+      "name": "RCF Occitanie Méditerranée",
+      "dab": "11C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "divergence",
+      "name": "Divergence FM",
+      "dab": "9C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "fm-plus",
+      "name": "FM Plus",
+      "dab": "9C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "aviva",
+      "name": "Radio Aviva",
+      "dab": "9C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": "",
+      "streams": [
+        {
+          "url": "https://radio13.pro-fhi.net/listen-tpgmxyoe-stream.mp3",
+          "codec": "MP3",
+          "bitrate": 128,
+          "format": "icecast",
+          "ok": false,
+          "fails": 1,
+          "lastChecked": "2026-11-21T09:59:08.602147+00:00"
+        }
+      ]
+    },
+    {
+      "id": "campus-montpellier",
+      "name": "Radio Campus Montpellier",
+      "dab": "9C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "clapas",
+      "name": "Radio Clapas",
+      "dab": "9C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
+    },
+    {
+      "id": "flash",
+      "name": "Radio Flash",
+      "dab": "9C",
+      "region": "Occitanie",
+      "type": "locale",
+      "genres": [],
+      "logo": null,
+      "streams": []
     }
   ]
 }
