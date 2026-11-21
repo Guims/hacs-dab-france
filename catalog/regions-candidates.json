@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rts",
+    "name": "RTS",
+    "region": "Occitanie",
+    "verified": false
+  },
+  {
+    "id": "radio-one",
+    "name": "Radio One",
+    "region": "Occitanie",
+    "verified": false
+  },
+  {
+    "id": "lenga-doc",
+    "name": "Radio Lenga d'Oc",
+    "region": "Occitanie",
+    "verified": false
+  }
+]
