@@ -5,9 +5,22 @@
     "dab": "9C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "RTS"
+      "RTS",
+      "RTS FM",
+      "RTS La Radio du Sud",
+      "RTS - La radio du Sud"
+    ],
+    "streams": [
+      {
+        "url": "https://stream.rtsfm.com/rts-national.mp3",
+        "source": "https://www.rtsfm.com/comment-ecouter-rts-2585"
+      },
+      {
+        "url": "https://str0.creacast.com/rts-national.mp3",
+        "source": "https://www.fluxradios.com/Radios-France/radios-r%C3%A9gionales-france/RTS-FM-France"
+      }
     ]
   },
   {
@@ -16,9 +29,12 @@
     "dab": "9C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "Radio One"
+      "Radio One",
+      "Radio ONE 34",
+      "Radio One Agde",
+      "Radio One (Agde)"
     ]
   },
   {
@@ -27,7 +43,7 @@
     "dab": "11C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
       "Radio Lenga d'Oc"
     ]
@@ -38,10 +54,21 @@
     "dab": "11C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
       "100%",
-      "100 Pour Cent"
+      "100 Pour Cent",
+      "100% Radio",
+      "100% Radio Hérault",
+      "100% Radio Beziers",
+      "100% Radio Albi"
+    ],
+    "streams": [
+      {
+        "url": "https://100radio-albi.ice.infomaniak.ch/100radio-albi-128.mp3",
+        "source": "https://tingfm.com/radio/47239",
+        "note": "flux local Albi du réseau 100%"
+      }
     ]
   },
   {
@@ -50,10 +77,18 @@
     "dab": "11C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
       "ici Hérault",
-      "France Bleu Hérault"
+      "France Bleu Hérault",
+      "ici Herault",
+      "France Bleu Herault"
+    ],
+    "streams": [
+      {
+        "url": "https://icecast.radiofrance.fr/fbherault-midfi.mp3",
+        "source": "https://developers.radiofrance.fr/doc/tutorial-by-example/list-locals-and-webradios"
+      }
     ]
   },
   {
@@ -62,9 +97,12 @@
     "dab": "11C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "RCF Occitanie Méditerranée"
+      "RCF Occitanie Méditerranée",
+      "RCF Maguelone Hérault",
+      "RCF Maguelone",
+      "RCF Hérault"
     ]
   },
   {
@@ -73,9 +111,11 @@
     "dab": "9C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "Divergence FM"
+      "Divergence FM",
+      "Divergence FM Montpellier",
+      "Divergence FM 93.9"
     ]
   },
   {
@@ -84,9 +124,13 @@
     "dab": "9C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "FM Plus"
+      "FM Plus",
+      "FM+",
+      "Radio FM Plus",
+      "FM Plus Montpellier",
+      "Radio FM Plus Montpellier"
     ]
   },
   {
@@ -95,9 +139,11 @@
     "dab": "9C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "Radio Aviva"
+      "Radio Aviva",
+      "Radio Aviva Montpellier",
+      "Aviva Montpellier"
     ]
   },
   {
@@ -106,9 +152,12 @@
     "dab": "9C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "Radio Campus Montpellier"
+      "Radio Campus Montpellier",
+      "Radio Campus Montpellier 102.2 FM",
+      "Radio Campus Montpellier 102.2",
+      "Campus Montpellier"
     ]
   },
   {
@@ -117,9 +166,17 @@
     "dab": "9C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "Radio Clapas"
+      "Radio Clapas",
+      "Radio Clapas - Culture & Citoyenneté - 93.5 Montpellier",
+      "Radio Clapas Montpellier"
+    ],
+    "streams": [
+      {
+        "url": "https://stations.radioclapas.fr/radio/8130/radio.mp3",
+        "source": "https://www.rcast.net/dir/blue/page17"
+      }
     ]
   },
   {
@@ -128,9 +185,11 @@
     "dab": "9C",
     "region": "Occitanie",
     "verified": true,
-    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "source": "https://www.dabplus.fr/montpellier",
     "queries": [
-      "Radio Flash"
+      "Radio Flash",
+      "Radio Flash Montpellier",
+      "Radio Flash (Montpellier)"
     ]
   }
 ]
