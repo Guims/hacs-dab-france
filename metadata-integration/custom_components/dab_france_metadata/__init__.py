@@ -1,6 +1,5 @@
 """Optional metadata integration."""
 import asyncio
-import json
 import re
 import time
 from urllib.parse import urlsplit
@@ -14,6 +13,8 @@ DOMAIN = "dab_france_metadata"
 CATALOG = "https://raw.githubusercontent.com/Guims/hacs-dab-france/main/catalog/stations.json"
 
 async def async_setup(hass, config):
+    if hass.data.get(DOMAIN):
+        return True
     session = async_get_clientsession(hass)
     cache = {}
     allowed = {}
@@ -58,7 +59,11 @@ async def async_setup(hass, config):
             connection.send_error(msg["id"], "metadata_unavailable", "Métadonnées indisponibles")
 
     websocket_api.async_register_command(hass, title)
+    hass.data[DOMAIN] = True
     return True
+
+async def async_setup_entry(hass, entry):
+    return await async_setup(hass, {})
 
 class PublicResolver(aiohttp.abc.AbstractResolver):
     async def resolve(self, host, port=0, family=0):
