@@ -91,3 +91,7 @@ Actions → Metadata audit → Run workflow. Deux passes ICY de 75 secondes maxi
 
 ### Audit des fournisseurs alternatifs
 Le workflow Alternative metadata providers teste les points JSON Icecast et les candidats RadioKing issus des URL du catalogue, sur trois passages espacés de trois minutes. Les résultats sont des candidats non certifiés, sans validation audio. Infomaniak nécessite des identifiants de station distincts des noms de flux. Rapport provider-audit.json. Aucun changement de version de la carte.
+
+
+## v0.6.0 — Lecteur
+La lecture navigateur interroge directement DAB+ France Metadata (0.6.3 ou ultérieur) au démarrage puis toutes les 25 secondes, y compris pour HLS. Suppression des sondes ICY/Icecast côté navigateur, délai WebSocket de 15 secondes, rejet des identifiants techniques. Le catalogue reste inchangé ; les méthodes de secours côté intégration restent présentes. Les sorties media_player gardent leurs propres métadonnées. Pochettes API non intégrées. Syntaxe JavaScript vérifiée, test HA réel restant à faire.
