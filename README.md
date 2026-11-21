@@ -1,6 +1,6 @@
 # DAB+ France — carte HACS
 
-**Version 0.4.2 (branche main)**
+**Version 0.5.0 (branche main)**
 
 Carte Lovelace pour écouter les flux Internet des radios DAB+ françaises, sans tuner physique.
 
@@ -36,6 +36,11 @@ Le workflow [Vérification des radios](https://github.com/Guims/hacs-dab-france/
 
 ## Changelog
 
+### 0.5.0
+- Module serveur facultatif ICY via WebSocket Home Assistant, sans URL fournie par le navigateur.
+- Repli automatique sur ce module après échec des méthodes navigateur.
+- Installation manuelle du module requise ; non testé sur HAOS.
+
 ### 0.4.2
 - Priorité à la dernière méthode de métadonnées ayant réussi pour le flux courant.
 - Conservation du dernier titre pendant une panne temporaire, expiration après 90 secondes lors d'une vérification infructueuse.
@@ -65,4 +70,14 @@ Le workflow [Vérification des radios](https://github.com/Guims/hacs-dab-france/
 
 ## Limitations et suite
 
-Les métadonnées navigateur dépendent de CORS et des informations réellement publiées par les radios. Les API spécifiques, le proxy serveur Home Assistant, les pochettes musicales dans le navigateur et l'égaliseur audio réel ne sont pas implémentés. La v0.4.2 n'a pas encore été testée dans Home Assistant. Les volumes des appareils externes ne sont pas restaurés automatiquement. Les favoris et réglages navigateur ne sont pas synchronisés entre appareils.
+Les métadonnées navigateur dépendent de CORS et des informations réellement publiées par les radios. Les API spécifiques, les pochettes musicales dans le navigateur et l'égaliseur audio réel ne sont pas implémentés. La v0.5.0 n'a pas encore été testée dans Home Assistant. Les volumes des appareils externes ne sont pas restaurés automatiquement. Les favoris et réglages navigateur ne sont pas synchronisés entre appareils.
+
+## Module serveur facultatif (expérimental)
+
+La carte HACS reste autonome. Pour activer le module, copier le dossier `metadata-integration/custom_components/dab_france_metadata` du dépôt vers `/config/custom_components/dab_france_metadata` sur Home Assistant. Ajouter à configuration.yaml :
+
+```yaml
+dab_france_metadata:
+```
+
+Vérifier la configuration et redémarrer Home Assistant. Le module ne constitue pas encore un dépôt HACS Integration installable séparément : le dépôt principal reste une carte Dashboard. Le serveur recherche des titres ICY pour les flux HTTPS figurant dans son catalogue, sans suivre les redirections et sans accepter d'adresse privée. Les requêtes sont limitées et les résultats mis en cache 25 secondes. Les API propriétaires et les flux dépourvus de métadonnées restent non pris en charge. En cas d'échec, la carte continue à fonctionner seule.
