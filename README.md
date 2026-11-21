@@ -81,3 +81,7 @@ dab_france_metadata:
 ```
 
 Vérifier la configuration et redémarrer Home Assistant. Le module ne constitue pas encore un dépôt HACS Integration installable séparément : le dépôt principal reste une carte Dashboard. Le serveur recherche des titres ICY pour les flux HTTPS figurant dans son catalogue, sans suivre les redirections et sans accepter d'adresse privée. Les requêtes sont limitées et les résultats mis en cache 25 secondes. Les API propriétaires et les flux dépourvus de métadonnées restent non pris en charge. En cas d'échec, la carte continue à fonctionner seule.
+
+### Module serveur 0.5.1 — préparation HACS
+
+Le module dispose désormais d'un assistant de configuration graphique. Après copie du dossier et redémarrage, il peut être ajouté depuis Paramètres > Appareils et services > Ajouter une intégration > DAB+ France Metadata. Ne pas ajouter simultanément la configuration YAML. La carte reste en 0.5.0. Le dépôt HACS Integration distinct reste à créer ; cette préparation ne constitue pas une installation HACS opérationnelle. Non testé sur HAOS.
