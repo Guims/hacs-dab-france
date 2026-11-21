@@ -83,3 +83,7 @@ Le module est désormais disponible dans un dépôt indépendant : [DAB+ France 
 Dans HACS, ajouter ce dépôt personnalisé dans la catégorie Intégration, télécharger main, redémarrer Home Assistant et ajouter DAB+ France Metadata dans Paramètres > Appareils et services. Aucun YAML nécessaire. Ne pas installer simultanément l'ancienne copie manuelle. La carte v0.5.0 détecte le module automatiquement lors de la recherche de titres. Recharger le tableau de bord après activation.
 
 L'installation HACS et la lecture réelle restent à tester.
+
+
+## Audit national des métadonnées (outil de développement)
+Actions → Metadata audit → Run workflow. Deux passes ICY de 75 secondes maximum par flux, jusqu’à deux flux HTTPS non-HLS par station, 12 connexions maximum, pause de 120 secondes entre les passes. Rapport JSON téléchargeable dans les artifacts. Un changement de titre ne prouve pas sa concordance avec l'audio ; aucune API externe n'est encore validée. Aucun changement de version de la carte.
