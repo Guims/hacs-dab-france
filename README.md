@@ -1,6 +1,6 @@
 # DAB+ France — carte HACS
 
-**Version 0.5.0 (branche main)**
+**Version 0.5.1 (branche main)**
 
 Carte Lovelace pour écouter les flux Internet des radios DAB+ françaises, sans tuner physique.
 
@@ -35,6 +35,10 @@ La couverture nationale est incomplète : Île-de-France, stations nationales et
 Le workflow [Vérification des radios](https://github.com/Guims/hacs-dab-france/actions) exécute `scripts/build_catalog.py` chaque nuit à 03h23 UTC. Il peut être lancé manuellement. Il vérifie les flux, tolère deux échecs successifs pour les flux précédemment valides, et publie le JSON. Le troisième échec les désactive. Aucun retéléchargement HACS n'est nécessaire pour une simple mise à jour du catalogue.
 
 ## Changelog
+
+### 0.5.1
+- Ignore les métadonnées sans lettres (identifiants numériques, notamment Nostalgie) et essaie les autres sources.
+- Les titres intégralement numériques peuvent aussi être filtrés ; aucune résolution des identifiants propriétaires à ce stade.
 
 ### 0.5.0
 - Module serveur facultatif ICY via WebSocket Home Assistant, sans URL fournie par le navigateur.
