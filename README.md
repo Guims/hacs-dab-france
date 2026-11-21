@@ -1,28 +1,68 @@
 # DAB+ France — carte HACS
 
-Carte personnalisée Lovelace pour écouter les radios DAB+ françaises sur Home Assistant via leurs flux Internet. Aucun tuner physique nécessaire.
+**Version 0.4.2 (branche main)**
+
+Carte Lovelace pour écouter les flux Internet des radios DAB+ françaises, sans tuner physique.
 
 ## Installation
 
-Dans HACS, ajouter `https://github.com/Guims/hacs-dab-france` aux dépôts personnalisés (catégorie Tableau de bord), télécharger puis ajouter une carte manuelle :
+Ajouter `https://github.com/Guims/hacs-dab-france` dans HACS, dépôts personnalisés, catégorie Tableau de bord. Télécharger puis ajouter une carte manuelle :
 
 ```yaml
 type: custom:dab-france-card
 ```
 
-## Version 0.2.0
+Pour mettre à jour : retélécharger main dans HACS, puis actualiser le navigateur (Ctrl+F5).
 
-- Source principale : [Ondes IDF — catalogue](https://github.com/ekinox-ux/ondes-idf-catalogue), maintenu par ekinox-ux. Le JSON public est lu à distance lors du chargement ou d'une actualisation ; ne sont retenues que les stations ayant un bloc DAB+ et au moins un flux HTTPS marqué valide. Le catalogue n'est pas réédité ni republié dans ce dépôt.
-- Cache du dernier catalogue dans le stockage du navigateur et sélection nationale minimale de secours si aucune synchronisation n'a encore réussi.
-- Logos distants, recherche par nom, genre ou bloc, favoris locaux.
-- Priorité aux flux directs MP3, alternatives HTTPS en cas d'échec de lecture dans le navigateur. Les lecteurs externes reçoivent le premier flux ; leurs capacités varient.
-- Deux stations ne proposent que du HLS dans le catalogue du 20 novembre 2026 : un navigateur compatible HLS natif ou un lecteur externe compatible est nécessaire.
-- Égaliseur décoratif, volume et sélection des entités media_player. Titres et pochettes selon les métadonnées fournies par le lecteur externe ; pas encore de récupération ICY dans le navigateur.
+## Fonctionnalités
 
-## Couverture
+- Recherche, filtres région et genre, favoris et logos.
+- Lecture navigateur ou entité media_player, volume navigateur mémorisé localement.
+- Alternatives de flux HTTPS dans le navigateur ; HLS selon compatibilité native.
+- Égaliseur décoratif animé pendant la lecture.
+- Titres et artistes : Icecast JSON, ICY, ou attributs du media_player externe.
+- Actualisation des titres toutes les 25 secondes pendant la lecture locale.
+- Cache local et catalogue de secours.
 
-Le catalogue actuellement utilisé est francilien, incluant des radios nationales ; il ne couvre pas l'ensemble des régions de France. Le projet n'est pas affilié à Ondes IDF. Les flux et logos restent la propriété de leurs ayants droit. Le catalogue distant peut changer. Les données conservées localement restent propres à chaque navigateur.
+## Catalogue
 
-## Développement
+Le fichier `catalog/stations.json` est chargé à distance. Le catalogue initial provient de [Ondes IDF](https://github.com/ekinox-ux/ondes-idf-catalogue), maintenu par ekinox-ux. Les ajouts régionaux sont recensés séparément et leurs flux recherchés notamment via Radio Browser. Le projet n'est pas affilié à ces services. Les droits sur les données, logos et flux restent à leurs titulaires ; la licence du catalogue amont reste à clarifier.
 
-Version expérimentale : les flux marqués valides par la source n'ont pas été testés indépendamment dans Home Assistant.
+La couverture nationale est incomplète : Île-de-France, stations nationales et premiers ajouts d'Occitanie. Seules les stations avec un flux HTTPS marqué valide sont présentées. Un contrôle HTTP ne garantit pas la lecture sur chaque appareil.
+
+## Maintenance
+
+Le workflow [Vérification des radios](https://github.com/Guims/hacs-dab-france/actions) exécute `scripts/build_catalog.py` chaque nuit à 03h23 UTC. Il peut être lancé manuellement. Il vérifie les flux, tolère deux échecs successifs pour les flux précédemment valides, et publie le JSON. Le troisième échec les désactive. Aucun retéléchargement HACS n'est nécessaire pour une simple mise à jour du catalogue.
+
+## Changelog
+
+### 0.4.2
+- Priorité à la dernière méthode de métadonnées ayant réussi pour le flux courant.
+- Conservation du dernier titre pendant une panne temporaire, expiration après 90 secondes lors d'une vérification infructueuse.
+- Version affichée dans la carte.
+- Documentation actualisée.
+
+### 0.4.1
+- Lecture des métadonnées ICY, avec limite de durée et de volume de données.
+- Annulation des requêtes lors des changements de station.
+
+### 0.4.0
+- Volume navigateur persistant, métadonnées Icecast JSON.
+- Exploitation des flux directs régionaux et journalisation des contrôles.
+
+### 0.3.1
+- Filtres région et genre, workflow nocturne.
+- Premiers ajouts régionaux et recherche Radio Browser.
+
+### 0.3.0
+- Catalogue hébergé dans le dépôt et script de contrôle.
+
+### 0.2.0
+- Catalogue Ondes IDF, cache et alternatives de flux.
+
+### 0.1.0–0.1.1
+- Première carte et catalogue de secours national.
+
+## Limitations et suite
+
+Les métadonnées navigateur dépendent de CORS et des informations réellement publiées par les radios. Les API spécifiques, le proxy serveur Home Assistant, les pochettes musicales dans le navigateur et l'égaliseur audio réel ne sont pas implémentés. La v0.4.2 n'a pas encore été testée dans Home Assistant. Les volumes des appareils externes ne sont pas restaurés automatiquement. Les favoris et réglages navigateur ne sont pas synchronisés entre appareils.
