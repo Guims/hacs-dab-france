@@ -30,6 +30,11 @@ def main():
         old_station = next((s for s in previous["stations"] if s["id"] == entry["id"]), {})
         streams = list(old_station.get("streams", []))
         logo = old_station.get("logo")
+        for direct in entry.get("streams", []):
+            if direct.get("note"): continue  # local variant not confirmed
+            url = direct.get("url", "")
+            if url.startswith("https://") and not any(t["url"] == url for t in streams):
+                streams.append(dict(url=url, codec="MP3", format="icecast", ok=False))
         for query in entry["queries"]:
             try:
                 params = urllib.parse.urlencode({"name":query,"nameExact":"true","countrycode":"FR","hidebroken":"true","limit":30})
@@ -55,6 +60,8 @@ def main():
             t["lastChecked"] = datetime.datetime.now(datetime.timezone.utc).isoformat()
     if not stations or not any(t["ok"] for t in tasks):
         raise RuntimeError("Catalogue vide ou aucun flux valide")
+    for s in stations:
+        print(s["name"], ":", sum(bool(t["ok"]) for t in s["streams"]), "/", len(s["streams"]))
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps({"schemaVersion":1,"stations":stations},ensure_ascii=False,indent=2)+"\n")
 if __name__ == "__main__":
