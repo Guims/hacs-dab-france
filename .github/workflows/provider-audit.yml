@@ -1,0 +1,24 @@
+name: Alternative metadata providers
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/provider-audit.yml'
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install aiohttp
+      - run: python -m py_compile scripts/audit_providers.py
+      - run: python -u scripts/audit_providers.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: provider-audit
+          path: provider-audit.json
