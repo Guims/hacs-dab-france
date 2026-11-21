@@ -87,3 +87,7 @@ L'installation HACS et la lecture réelle restent à tester.
 
 ## Audit national des métadonnées (outil de développement)
 Actions → Metadata audit → Run workflow. Deux passes ICY de 75 secondes maximum par flux, jusqu’à deux flux HTTPS non-HLS par station, 12 connexions maximum, pause de 120 secondes entre les passes. Rapport JSON téléchargeable dans les artifacts. Un changement de titre ne prouve pas sa concordance avec l'audio ; aucune API externe n'est encore validée. Aucun changement de version de la carte.
+
+
+### Audit des fournisseurs alternatifs
+Le workflow Alternative metadata providers teste les points JSON Icecast et les candidats RadioKing issus des URL du catalogue, sur trois passages espacés de trois minutes. Les résultats sont des candidats non certifiés, sans validation audio. Infomaniak nécessite des identifiants de station distincts des noms de flux. Rapport provider-audit.json. Aucun changement de version de la carte.
