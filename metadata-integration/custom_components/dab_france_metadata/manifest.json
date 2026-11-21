@@ -1,0 +1,14 @@
+{
+  "domain": "dab_france_metadata",
+  "name": "DAB+ France Metadata",
+  "version": "0.5.0",
+  "documentation": "https://github.com/Guims/hacs-dab-france",
+  "codeowners": [
+    "@Guims"
+  ],
+  "iot_class": "cloud_polling",
+  "dependencies": [
+    "websocket_api"
+  ],
+  "requirements": []
+}
