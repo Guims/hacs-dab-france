@@ -2,19 +2,135 @@
   {
     "id": "rts",
     "name": "RTS",
+    "dab": "9C",
     "region": "Occitanie",
-    "verified": false
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "RTS"
+    ]
   },
   {
     "id": "radio-one",
     "name": "Radio One",
+    "dab": "9C",
     "region": "Occitanie",
-    "verified": false
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "Radio One"
+    ]
   },
   {
     "id": "lenga-doc",
     "name": "Radio Lenga d'Oc",
+    "dab": "11C",
     "region": "Occitanie",
-    "verified": false
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "Radio Lenga d'Oc"
+    ]
+  },
+  {
+    "id": "100pourcent",
+    "name": "100%",
+    "dab": "11C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "100%",
+      "100 Pour Cent"
+    ]
+  },
+  {
+    "id": "ici-herault",
+    "name": "ici Hérault",
+    "dab": "11C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "ici Hérault",
+      "France Bleu Hérault"
+    ]
+  },
+  {
+    "id": "rcf-occitanie",
+    "name": "RCF Occitanie Méditerranée",
+    "dab": "11C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "RCF Occitanie Méditerranée"
+    ]
+  },
+  {
+    "id": "divergence",
+    "name": "Divergence FM",
+    "dab": "9C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "Divergence FM"
+    ]
+  },
+  {
+    "id": "fm-plus",
+    "name": "FM Plus",
+    "dab": "9C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "FM Plus"
+    ]
+  },
+  {
+    "id": "aviva",
+    "name": "Radio Aviva",
+    "dab": "9C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "Radio Aviva"
+    ]
+  },
+  {
+    "id": "campus-montpellier",
+    "name": "Radio Campus Montpellier",
+    "dab": "9C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "Radio Campus Montpellier"
+    ]
+  },
+  {
+    "id": "clapas",
+    "name": "Radio Clapas",
+    "dab": "9C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "Radio Clapas"
+    ]
+  },
+  {
+    "id": "flash",
+    "name": "Radio Flash",
+    "dab": "9C",
+    "region": "Occitanie",
+    "verified": true,
+    "source": "https://www.arcom.fr/actualites/deploiement-en-france-de-la-radio-numerique-terrestre-demarrage-du-dab-montpellier-nimes-perpignan-ales-beziers-et-narbonne",
+    "queries": [
+      "Radio Flash"
+    ]
   }
 ]
